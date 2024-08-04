@@ -1,2 +1,2 @@
 # Semaforo
-Ainda não consegui fazer o automático
+Aplicação com interações de click
